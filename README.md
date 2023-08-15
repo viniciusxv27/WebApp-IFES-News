@@ -7,7 +7,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 📋 Pré-requisitos
 
 * [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Usado para criação do Site
-* [CSS3](https://pt.wikipedia.org/wiki/HTML5) - Usado para estilizar o Site
+* [CSS3](https://pt.wikipedia.org/wiki/CSS3) - Usado para estilizar o Site
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem Usada para acessar a API
 * [Rede do IFES Serra](http://divulgaifes.serra.cefetes.br) - Rede Interna do IFES Serra
 
@@ -29,8 +29,8 @@ O projeto está pronto para ser testado
 
 ## 🛠️ Construído com
 
-* [HTML5](https://pt.wikipedia.org/wiki/HTML5) - A linguagem de 
-* [CSS3]([https://pt.wikipedia.org/wiki/CSS3](https://pt.wikipedia.org/wiki/HTML5)) - Usada para gerar RSS
+* [HTML5](https://pt.wikipedia.org/wiki/HTML5) - Usado para criação do Site
+* [CSS3](https://pt.wikipedia.org/wiki/CSS3) - Usado para estilizar o Site
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem Usada para acessar a API
 
 ## 📌 Versão
