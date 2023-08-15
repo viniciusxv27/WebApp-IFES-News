@@ -4,7 +4,7 @@ var segundos = 1;
 var tempo = 10000;
 var rodouPrimeiro = false;
 
-var urlAPI = 'https://homologa-divulgaifes.serra.cefetes.br/api/noticias/';
+var urlAPI = 'https://divulgaifes.serra.cefetes.br/api/noticias/';
 var headers = new Headers();
 
 headers.append('Content-Type', 'application/json');
@@ -41,7 +41,7 @@ function mudarNoticia() {
         };
 
         if(rodouPrimeiro == false){
-            imagemElemento.style.backgroundImage = 'url("https://homologa-divulgaifes.serra.cefetes.br/carregando.png")';
+            imagemElemento.style.backgroundImage = 'url("https://divulgaifes.serra.cefetes.br/carregando.png")';
             rodouPrimeiro = true;
             indiceAtual = (indiceAtual - 1);
         } else{
