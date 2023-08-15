@@ -1,4 +1,4 @@
-# Painel de controle Divulga IFES
+# Aplicativo Web Divulga IFES
 
 ## 🚀 Começando
 
